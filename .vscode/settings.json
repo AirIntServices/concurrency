@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules/": true,
+    "yarn.lock": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "yarn.lock": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false
+  },
+  "editor.formatOnSave": false,
+}
